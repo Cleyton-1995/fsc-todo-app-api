@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Estudar FSW",
+      "description": "Estudar para a prova do FSW",
+      "time": "morning",
+      "status": "in_progress"
+    },
+    {
+      "id": "3",
+      "title": "Treinar",
+      "description": "Treinar para a competição de natação",
+      "time": "afternoon",
+      "status": "done"
+    },
+    {
+      "id": "5",
+      "title": "Descansar",
+      "description": "Assitir um filme com a família",
+      "time": "evening",
+      "status": "not_started"
+    }
+  ]
+}

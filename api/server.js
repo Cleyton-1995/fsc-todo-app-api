@@ -1,5 +1,4 @@
 const jsonServer = require("json-server");
-
 const fs = require("fs");
 const path = require("path");
 
